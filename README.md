@@ -1,2 +1,28 @@
-# c2cbb3f7-finance-accounting-standard
-The finance accounting tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Finance &amp; Accounting Standard Operating Procedures Library — fully configured and ready to use -
+# Finance & Accounting Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe6oH3aL2k46xy1ZicZF3a)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe6oH3aL2k46xy1ZicZF3a)
+
